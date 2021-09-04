@@ -4,11 +4,11 @@ I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO o
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
-<a href="https://www.linkedin.com/in/davidfeldt/" target="_blank"><img align="left" alt="linked-in" src="image/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/davidfeldt/" target="_blank"><img align="left" alt="linked-in" src="images/linkedin.svg" /></a>
 
-<a href="https://medium.com/@davidfeldt" target="_blank"><img align="left" alt="medium" src="image/medium.svg" /></a>
+<a href="https://medium.com/@davidfeldt" target="_blank"><img align="left" alt="medium" src="images/medium.svg" /></a>
 
-<a href="https://twitter.com/davidfeldt" target="_blank"><img align="left" alt="twitter" src="image/twitter.svg" /></a>
+<a href="https://twitter.com/davidfeldt" target="_blank"><img align="left" alt="twitter" src="images/twitter.svg" /></a>
 
 <br>
 <br>
