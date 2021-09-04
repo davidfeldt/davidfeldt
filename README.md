@@ -5,11 +5,9 @@ I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO o
 <br>
 ## Connect with me
 <br>
-<a href="https://www.linkedin.com/in/davidfeldt/" target="_blank"><img align="left" alt="linked-in" src="images/linkedin.svg" /></a>
-<br>
-<a href="https://medium.com/@davidfeldt" target="_blank"><img align="left" alt="medium" src="images/medium.svg" /></a>
-<br>
-<a href="https://twitter.com/davidfeldt" target="_blank"><img align="left" alt="twitter" src="images/twitter.svg" /></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/davidfeldt/" target="_blank"><img align="left" alt="linked-in" src="images/linkedin.svg" /></a>&nbsp;<a href="https://medium.com/@davidfeldt" target="_blank"><img align="left" alt="medium" src="images/medium.svg" /></a>&nbsp;<a href="https://twitter.com/davidfeldt" target="_blank"><img align="left" alt="twitter" src="images/twitter.svg" /></a>
+</div>
 <br>
 <br>
 ## Expertise
