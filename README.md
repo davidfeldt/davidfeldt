@@ -1,8 +1,10 @@
 <h1 align="center">Welcome to my Github - What brings you here?</h1>
-I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO of [JazLabs, Inc](https://jazlabs.com).
-- 🔭 Working on multiple frontend and backend project using React, React Native, Nodejs, PHP, Swift, Azure, Kubernetes and other languages.
-- 🌱 Learning design patterns in depth
--
+I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO of <a href="https://jazlabs.com" target="_blank>JazLabs, Inc</a>.
+<br>
+<br>
+- 🔭 Working on multiple frontend and backend project using React, React Native, Nodejs, PHP, Swift, Azure, Kubernetes and others.
+- 🌱 Always learning and exploring new ideas, frameworks, platforms and business models.
+
 <br>
 ## Connect with me
 <br>
