@@ -2,8 +2,8 @@
 I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO of <a href="https://jazlabs.com" target="_blank">JazLabs, Inc</a>.
 <br>
 <br>
-- 🔭 Working on multiple frontend and backend projects using React, React Native, Nodejs, PHP, Swift, Azure, Kubernetes and others.
-- 🌱 Always learning and exploring new ideas, frameworks, platforms and business models.
+  - 🔭 Working on multiple frontend and backend projects using React, React Native, Nodejs, PHP, Swift, Azure, Kubernetes and others.
+  - 🌱 Always learning and exploring new ideas, frameworks, platforms and business models.
 -
 <br>
 <br>
