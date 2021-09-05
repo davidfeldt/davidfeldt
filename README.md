@@ -28,5 +28,7 @@ I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO o
 <div align="center">
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;<img align="left" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
+<div align="center">
+<img align="left" alt="twilio" src="https://camo.githubusercontent.com/73d1c4acd19e3b7b0d349618243fbef3735634e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477696c696f2532302d2532334632324634362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5477696c696f266c6f676f436f6c6f723d7768697465" />&nbsp;<img align="left" alt="stripe" src="https://camo.githubusercontent.com/f886ff68959ba63b005202933399441080435fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374726970652532302d2532333030384344442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d537472697065266c6f676f436f6c6f723d7768697465" />
 <br>
 <br>
