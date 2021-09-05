@@ -25,7 +25,7 @@ I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO o
 ## Most Used Cloud Providers
 <br>
 <div align="center">
-<a href="https://console.aws.amazon.com" target="_blank><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /></a>&nbsp;<a href="https://portal.azure.com" target="_blank"><img align="left" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" /></a>&nbsp;<a href="https://cloud.digitalocean.com/" target="_blank"><img align="left" alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" /></a>
+<a href="https://console.aws.amazon.com" target="_blank"><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /></a>&nbsp;<a href="https://portal.azure.com" target="_blank"><img align="left" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" /></a>&nbsp;<a href="https://cloud.digitalocean.com/" target="_blank"><img align="left" alt="digitalocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" /></a>
 </div>
 <br>
 <br>
