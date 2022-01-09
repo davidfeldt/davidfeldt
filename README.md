@@ -4,6 +4,7 @@ I'm a tech entrepreneur, digital innovator and software builder. Founder & CEO o
 <br>
   - 🔭 Working on multiple frontend and backend projects using React, React Native, Nodejs, PHP, Swift, Azure, Kubernetes and others.
   - 🌱 Always learning and exploring new ideas, frameworks, platforms and business models.
+  - Experimenting with #daos, #dapps and #web3
 -
 <br>
 <br>
